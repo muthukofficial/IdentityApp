@@ -1,0 +1,12 @@
+/Users/muthu/Desktop/github/App/Identity.DAL/bin/Debug/net5.0/Identity.DAL.deps.json
+/Users/muthu/Desktop/github/App/Identity.DAL/bin/Debug/net5.0/Identity.DAL.dll
+/Users/muthu/Desktop/github/App/Identity.DAL/bin/Debug/net5.0/ref/Identity.DAL.dll
+/Users/muthu/Desktop/github/App/Identity.DAL/bin/Debug/net5.0/Identity.DAL.pdb
+/Users/muthu/Desktop/github/App/Identity.DAL/obj/Debug/net5.0/Identity.DAL.csproj.AssemblyReference.cache
+/Users/muthu/Desktop/github/App/Identity.DAL/obj/Debug/net5.0/Identity.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muthu/Desktop/github/App/Identity.DAL/obj/Debug/net5.0/Identity.DAL.AssemblyInfoInputs.cache
+/Users/muthu/Desktop/github/App/Identity.DAL/obj/Debug/net5.0/Identity.DAL.AssemblyInfo.cs
+/Users/muthu/Desktop/github/App/Identity.DAL/obj/Debug/net5.0/Identity.DAL.csproj.CoreCompileInputs.cache
+/Users/muthu/Desktop/github/App/Identity.DAL/obj/Debug/net5.0/Identity.DAL.dll
+/Users/muthu/Desktop/github/App/Identity.DAL/obj/Debug/net5.0/ref/Identity.DAL.dll
+/Users/muthu/Desktop/github/App/Identity.DAL/obj/Debug/net5.0/Identity.DAL.pdb
